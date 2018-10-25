@@ -1,8 +1,3 @@
-'''
-Created on 2017年11月1日
-
-@author: wangweizhou
-'''
 from playground.network.packet import PacketType
 from playground.network.packet.fieldtypes import UINT32, UINT8, UINT16, BUFFER,STRING,LIST,UINT64
 from playground.network.packet.fieldtypes.attributes import Optional

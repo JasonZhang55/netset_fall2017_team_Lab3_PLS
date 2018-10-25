@@ -1,8 +1,3 @@
-'''
-Created on 2017年11月8日
-
-@author: wangweizhou
-'''
 from playground.network.common import StackingTransport
 from .PLSPackets import *
 

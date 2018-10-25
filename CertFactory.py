@@ -1,9 +1,3 @@
-'''
-Created on 2017年11月1日
-
-@author: wangweizhou
-'''
-
 def getPrivateKeyForAddr(addr):
     with open(addr) as f:
         Private_key = f.read()

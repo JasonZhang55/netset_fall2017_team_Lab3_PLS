@@ -1,8 +1,3 @@
-'''
-Created on 2017年9月28日
-
-@author: wangweizhou
-'''
 from playground.network.packet.fieldtypes import UINT32, STRING, BUFFER,BOOL,LIST
 from playground.network.packet import PacketType
 from playground.network.common import StackingProtocol
